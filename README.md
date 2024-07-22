@@ -15,7 +15,7 @@ This project provides a script to convert various document formats (PDF, DOCX, H
 
 ## Usage
 
-1. **Download the executable** from the [releases page](https://github.com/yourusername/universal-epub-converter/releases).
+1. **Download the executable** from the [releases page](https://github.com/jiuvirgil/universal-epub-converter/releases).
 2. **Move the executable to the directory where your files are located.**.
 3. **Run the executable**.
 4. **Check the same directory for the output EPUB files.**.
@@ -27,7 +27,7 @@ To develop and build the executable yourself, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/universal-epub-converter.git
+    git clone https://github.com/jiuvirgil/universal-epub-converter.git
     cd universal-epub-converter
     ```
 
