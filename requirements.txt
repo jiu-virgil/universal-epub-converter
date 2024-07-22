@@ -1,0 +1,5 @@
+colorlog
+PyPDF2
+ebooklib
+python-docx
+beautifulsoup4
